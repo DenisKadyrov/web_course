@@ -8,7 +8,7 @@ margin-top: 350px;
 margin: 10px;
 }
 .imageHeroes:hover {
-    transform: scale(1.15)
+    transform: scale(1.15);
 }
 .icon {
     position: absolute;
